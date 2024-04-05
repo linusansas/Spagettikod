@@ -34,6 +34,16 @@ Once installed, follow these steps for development:
    npm run dev
    ```
 
-## Troubleshooting
+## Spagetticode
 
-If you encounter any issues during installation or development, ensure prerequisites are met and refer to React's documentation for solutions.
+- Bulletproof - Project Structure
+- Bulletproof - Components
+- Cleancode - Meaningful and speakable variables
+- Cleancode - Function name should say what to do 
+- Cleancode - Mental mapping
+
+- ES-lint - Dubbla nycklar - lösningen är att ta bort en av nycklarna
+- ES-lint - Oanvänd variabel
+- ES-lint - Ej indenterad kod
+- ES-lint - Ett extra onödigt semikolon
+- ES-lint - no-duplicate-imports

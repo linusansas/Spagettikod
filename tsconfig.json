@@ -24,7 +24,8 @@
   },
   "include": [
     "src",
-    "src/pages/Explorer.tsx"
+    "src/pages/Explorer.tsx",
+    "src/shoppinglist.tsx"
   ],
   "references": [
     {

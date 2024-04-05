@@ -1,10 +1,5 @@
-# GIF Application README
+# Spaggettkod Application README
 
-This README provides guidance on installation, development, and troubleshooting for a GIF application developed with React and Tailwind CSS.
-
-## Demo link
-
-https://react-ts-app-sigma.vercel.app/explorer
 
 ## Prerequisites
 

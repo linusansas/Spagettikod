@@ -39,11 +39,11 @@ Once installed, follow these steps for development:
 - Bulletproof - Project Structure
 - Bulletproof - Components
 - Cleancode - Meaningful and speakable variables
-- Cleancode - Function name should say what to do 
+- Cleancode - Function name should say what to do
 - Cleancode - Mental mapping
 
-- ES-lint - Dubbla nycklar - lösningen är att ta bort en av nycklarna
-- ES-lint - Oanvänd variabel
-- ES-lint - Ej indenterad kod
-- ES-lint - Ett extra onödigt semikolon
+- ES-lint - Duplicate keys
+- ES-lint - Unused variable
+- ES-lint - Unindented code
+- ES-lint - Extra unnecessary semicolon
 - ES-lint - no-duplicate-imports
